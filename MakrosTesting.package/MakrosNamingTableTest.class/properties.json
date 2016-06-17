@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"table" ],
+	"name" : "MakrosNamingTableTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

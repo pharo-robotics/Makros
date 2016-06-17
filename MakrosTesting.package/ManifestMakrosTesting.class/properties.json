@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestMakrosTesting",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }
