@@ -1,0 +1,20 @@
+{
+	"category" : "MakrosTurtlesim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/11/2015 15:35",
+	"instvars" : [
+		"application",
+		"poseTopicComponent",
+		"velocityTopicComponent",
+		"colorTopicComponent",
+		"turtles",
+		"spawn",
+		"servingSample" ],
+	"name" : "MTTurtleSIM",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

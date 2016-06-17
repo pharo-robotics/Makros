@@ -1,0 +1,1 @@
+This is a set of turtles. It allows to send messages to all of them at the time. 

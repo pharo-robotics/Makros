@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosTurtlesim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/14/2015 12:30",
+	"instvars" : [
+		"set" ],
+	"name" : "MTTurtles",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
