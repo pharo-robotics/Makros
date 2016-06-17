@@ -1,0 +1,1 @@
+This object is in charge to contain a new name, and to register if this name is already in use. Since there are many components that may be interested in this information, and since components can be added dynamically, we cannot allow to modify topics name without any change. So, topic names are remappable mean while there is no user of the message #name. 

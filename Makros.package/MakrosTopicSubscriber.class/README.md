@@ -1,0 +1,1 @@
+A MakoROSTopicSubscriber class is a component that reificates a topic for subscribing proposes

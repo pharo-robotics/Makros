@@ -1,0 +1,14 @@
+{
+	"category" : "Makros-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/29/2015 11:43",
+	"instvars" : [
+		 ],
+	"name" : "MakrosMetaPort",
+	"pools" : [
+		 ],
+	"super" : "MakoMetaTypedPort",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+code-critics
+ruleCodeCruftLeftInMethodsRuleV1FalsePositive
+	^ #(#(#(#RGMethodDefinition #(#Makros2DMoveBase #sync #false)) #'2016-05-31T11:34:13.722255+02:00') #(#(#RGMethodDefinition #(#TMakrosDataflowPort #cannotNegotiateDifferentTypes: #false)) #'2016-05-31T11:34:13.721894+02:00') #(#(#RGMethodDefinition #(#Makros2DMoveBase #findGoalId:stamped:ifFound:ifNone: #false)) #'2016-05-31T11:34:13.722375+02:00') #(#(#RGMethodDefinition #(#MakrosApplication #tickEach: #false)) #'2016-05-31T11:34:13.722072+02:00') #(#(#RGMethodDefinition #(#SPPlanningComponent #sync #false)) #'2016-05-31T11:34:13.722341+02:00') )

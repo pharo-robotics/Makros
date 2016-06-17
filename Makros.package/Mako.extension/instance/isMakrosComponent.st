@@ -1,0 +1,3 @@
+*Makros
+isMakrosComponent
+	^ false

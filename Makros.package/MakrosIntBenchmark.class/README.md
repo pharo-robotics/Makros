@@ -1,0 +1,1 @@
+The basic idea of this benchmark is to transfer a basic type into a ROS system and being able to understand the overhead of the system .

@@ -1,0 +1,3 @@
+accessing
+incomingValue
+	^ incoming value

@@ -1,0 +1,1 @@
+This trait implements the needed extentions of the input and output dataflow ports for being adapted to ROS type system

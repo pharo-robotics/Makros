@@ -1,0 +1,4 @@
+statuses
+statusNames
+	^ statusNames
+		ifNil: [ statusNames := #(#PENDING #ACTIVE #PREEMPTED #SUCCEEDED #ABORTED #REJECTED #PREEMPTING #RECALLING #RECALLED #LOST #EXPIRED) ]

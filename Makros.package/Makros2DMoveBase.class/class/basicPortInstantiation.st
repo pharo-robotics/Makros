@@ -1,0 +1,3 @@
+component-private
+basicPortInstantiation 
+	 ^ {#sync => MakoSyncPort onSync: #sync.#incomingGoal => MakoInputPort type: #Makros2DMoveBaseGoal.#currentPose => MakoOutputPort type: #GEOPose.#goal => MakrosOutputPort type: #'move_base_msgs/MoveBaseActionGoal'.#cancel => MakrosOutputPort type: #'actionlib_msgs/GoalID'.#feedback => MakrosInputPort type: #'move_base_msgs/MoveBaseActionFeedback'.#status => MakrosInputPort type: #'actionlib_msgs/GoalStatusArray'}.

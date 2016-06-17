@@ -1,0 +1,1 @@
+A MakoROSApplication class is an object that manages a clasical Mako application, with it components and support communicating with ROS.

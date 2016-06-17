@@ -1,0 +1,1 @@
+a MakrosMetaPort is a regular dataflow metaport, but that does checks depending on the running domain 

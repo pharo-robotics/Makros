@@ -1,0 +1,1 @@
+a Makros output port is a regular output-dataflow port, that resolves types outside de image. 

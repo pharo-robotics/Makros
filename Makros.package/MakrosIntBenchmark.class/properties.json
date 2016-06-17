@@ -1,0 +1,15 @@
+{
+	"category" : "Makros-Benchmark",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 5/25/2016 17:51",
+	"instvars" : [
+		"sync",
+		"outgoing" ],
+	"name" : "MakrosIntBenchmark",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

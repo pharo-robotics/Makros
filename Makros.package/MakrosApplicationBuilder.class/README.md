@@ -1,0 +1,1 @@
+This class is in charge of saving the data to spawn a ros domain and inserting domain and prrticipant objects into a given makros application. This is due to the need of image r esuming capabilities

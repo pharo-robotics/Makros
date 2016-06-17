@@ -1,0 +1,15 @@
+{
+	"category" : "Makros-Naming",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 5/30/2016 15:25",
+	"instvars" : [
+		"name",
+		"inUse" ],
+	"name" : "MakrosName",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

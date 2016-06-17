@@ -1,0 +1,14 @@
+{
+	"category" : "Makros-Basics",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/22/2016 12:00",
+	"instvars" : [
+		 ],
+	"name" : "MakrosConvertions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

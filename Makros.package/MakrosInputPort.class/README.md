@@ -1,0 +1,1 @@
+a Makros input port is a regular input-dataflow port, that resolves types outside de image. 

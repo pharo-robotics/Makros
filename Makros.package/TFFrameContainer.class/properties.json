@@ -1,0 +1,14 @@
+{
+	"category" : "Makros-TF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/22/2016 11:49",
+	"instvars" : [
+		"frames" ],
+	"name" : "TFFrameContainer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

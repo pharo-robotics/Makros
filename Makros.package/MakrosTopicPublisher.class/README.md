@@ -1,0 +1,1 @@
+A MakoROSTopicPublisher class is a component that reificates a topic for publishing proposes
