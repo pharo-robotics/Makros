@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMakrosTurtlesim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMakrosTurtlesim",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
