@@ -1,3 +1,3 @@
 component-private
 basicPortInstantiation 
-	 ^ {#resolution => MakoInputPort type: #Integer.#angleScale => MakoInputPort type: #Float}.
+	 ^ {#tf => MakoInputPort type: #TFFrameContainer.#scan => MakrosInputPort type: #'sensor_msgs/LaserScan'.#points => MakoOutputPort type: #SNSPointCloud}.

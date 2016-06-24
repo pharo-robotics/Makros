@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"resolution",
-		"angleScale" ],
+		"tf",
+		"scan",
+		"points" ],
 	"name" : "Laser2DProjector",
 	"pools" : [
 		 ],
