@@ -1,18 +1,17 @@
 {
-	"category" : "Makros-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/15/2015 23:34",
+	"super" : "MakoApplication",
+	"category" : "Makros-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"domain",
 		"participant",
 		"process",
 		"builder",
-		"namingTable" ],
+		"namingTable"
+	],
 	"name" : "MakrosApplication",
-	"pools" : [
-		 ],
-	"super" : "MakoApplication",
-	"type" : "normal" }
+	"type" : "normal"
+}

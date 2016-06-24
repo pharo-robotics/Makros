@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Mako",
+	"category" : "Makros-Laser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resolution",
+		"angleScale"
+	],
+	"name" : "Laser2DProjector",
+	"type" : "normal"
+}

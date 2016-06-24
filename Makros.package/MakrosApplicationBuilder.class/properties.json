@@ -1,17 +1,16 @@
 {
-	"category" : "Makros-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 5/25/2016 17:50",
+	"super" : "Object",
+	"category" : "Makros-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"ipHost",
 		"nameParticipant",
 		"rosUrl",
-		"namingTable" ],
+		"namingTable"
+	],
 	"name" : "MakrosApplicationBuilder",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

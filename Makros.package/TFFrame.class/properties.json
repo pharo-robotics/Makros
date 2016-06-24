@@ -1,17 +1,16 @@
 {
-	"category" : "Makros-TF",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:55",
+	"super" : "Object",
+	"category" : "Makros-TF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"parent",
 		"pose",
 		"name",
-		"stamp" ],
+		"stamp"
+	],
 	"name" : "TFFrame",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

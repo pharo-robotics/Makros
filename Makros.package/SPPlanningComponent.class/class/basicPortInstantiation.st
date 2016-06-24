@@ -1,3 +1,3 @@
 component-private
 basicPortInstantiation 
-	 ^ {#sync => MakoSyncPort onSync: #sync.#tf => MakoInputPort type: #TFFrameContainer.#goal => MakrosInputPort type: #'move_base_msgs/MoveBaseActionGoal'.#velocity => MakrosOutputPort type: #'geometry_msgs/Twist'.#cancel => MakrosInputPort type: #'actionlib_msgs/GoalID'.#scan => MakrosInputPort type: #'sensor_msgs/LaserScan'.#status => MakrosOutputPort type: #'actionlib_msgs/GoalStatusArray'}.
+	 ^ {#tf => MakoInputPort type: #TFFrameContainer.#goal => MakrosInputPort type: #'move_base_msgs/MoveBaseActionGoal'.#cancel => MakrosInputPort type: #'actionlib_msgs/GoalID'.#scan => MakrosInputPort type: #'sensor_msgs/LaserScan'.#velocity => MakrosOutputPort type: #'geometry_msgs/Twist'.#status => MakrosOutputPort type: #'actionlib_msgs/GoalStatusArray'}.

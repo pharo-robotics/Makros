@@ -1,14 +1,11 @@
 {
-	"category" : "Makros-Basics",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:49",
-	"instvars" : [
-		 ],
-	"name" : "GEORollPitchYaw",
-	"pools" : [
-		 ],
 	"super" : "GEOTern",
-	"type" : "variable" }
+	"category" : "Makros-Basics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GEORollPitchYaw",
+	"type" : "variable"
+}

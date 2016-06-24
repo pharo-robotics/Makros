@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"destroy" : " 6/23/2016 17:03:45",
+		"configure" : " 6/23/2016 17:03:45",
+		"publish:" : " 6/23/2016 17:03:45",
+		"publisher" : " 6/23/2016 17:03:45",
+		"topic" : " 6/23/2016 17:03:45",
+		"noteWrittenPort:newValue:" : " 6/23/2016 17:03:45",
+		"initialize" : " 6/23/2016 17:03:45",
+		"topicName:" : " 6/23/2016 17:03:45",
+		"application:" : " 6/23/2016 17:03:45",
+		"hasConnections" : " 6/23/2016 17:03:45",
+		"invalidate" : " 6/23/2016 17:03:45",
+		"isMakrosComponent" : " 6/23/2016 17:03:45"
+	},
+	"class" : {
+		"basicPortInstantiation" : "SantiagoBragagnolo 6/24/2016 11:59",
+		"forApp:onTopOfTopicNamed:" : " 6/23/2016 17:03:45"
+	}
+}

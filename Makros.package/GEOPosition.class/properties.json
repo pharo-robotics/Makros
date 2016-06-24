@@ -1,14 +1,11 @@
 {
-	"category" : "Makros-Basics",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:27",
-	"instvars" : [
-		 ],
-	"name" : "GEOPosition",
-	"pools" : [
-		 ],
 	"super" : "GEO3DVector",
-	"type" : "variable" }
+	"category" : "Makros-Basics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GEOPosition",
+	"type" : "variable"
+}

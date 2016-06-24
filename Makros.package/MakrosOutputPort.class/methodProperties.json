@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"type:" : " 6/23/2016 17:03:45",
+		"destroy" : "",
+		"privateIsCompatibleWith:" : "",
+		"domain" : "",
+		"isMakrosPort" : "",
+		"agreeTypesWith:" : "",
+		"cannotNegotiateTypeHolderWithTypeHolder:" : "",
+		"application:" : " 6/23/2016 17:03:45",
+		"basicType" : " 6/23/2016 17:03:45",
+		"cannotNegotiateDifferentTypes:" : "",
+		"type" : "",
+		"checkTypeOfValue:" : "",
+		"application" : " 6/23/2016 17:03:45"
+	},
+	"class" : {
+		"metaclass" : ""
+	}
+}

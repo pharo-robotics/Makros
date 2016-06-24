@@ -1,15 +1,14 @@
 {
-	"category" : "Makros-MoveBase",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/25/2016 17:20",
+	"super" : "Object",
+	"category" : "Makros-MoveBase",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"goals",
-		"currentGoal" ],
+		"currentGoal"
+	],
 	"name" : "SPPlanner",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

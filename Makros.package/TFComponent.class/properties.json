@@ -1,18 +1,16 @@
 {
-	"category" : "Makros-TF",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/22/2016 12:06",
+	"super" : "Mako",
+	"category" : "Makros-TF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"frames",
-		"sync",
-		"tfOut",
 		"tfIn",
-		"container" ],
+		"tfOut",
+		"container"
+	],
 	"name" : "TFComponent",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

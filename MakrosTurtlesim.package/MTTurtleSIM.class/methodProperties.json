@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"createTurtleNamed:" : " 6/24/2016 12:00:45",
+		"destroy" : " 6/24/2016 12:00:45",
+		"stop" : " 6/24/2016 12:00:45",
+		"turtleNamed:" : " 6/24/2016 12:00:45",
+		"turtlePoseFor:" : " 6/24/2016 12:00:45",
+		"turtles" : " 6/24/2016 12:00:45",
+		"start" : " 6/24/2016 12:00:45",
+		"turtleVelocityFor:" : " 6/24/2016 12:00:45",
+		"initialize" : " 6/24/2016 12:00:45",
+		"spawnTurtleIfNeededNamed:" : " 6/24/2016 12:00:45",
+		"turtleColorFor:" : " 6/24/2016 12:00:45",
+		"initializeServices" : " 6/24/2016 12:00:45",
+		"application" : " 6/24/2016 12:00:45"
+	},
+	"class" : { }
+}

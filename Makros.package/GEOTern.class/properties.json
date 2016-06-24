@@ -1,14 +1,11 @@
 {
-	"category" : "Makros-Basics",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:37",
-	"instvars" : [
-		 ],
-	"name" : "GEOTern",
-	"pools" : [
-		 ],
 	"super" : "DhbVector",
-	"type" : "variable" }
+	"category" : "Makros-Basics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GEOTern",
+	"type" : "variable"
+}
