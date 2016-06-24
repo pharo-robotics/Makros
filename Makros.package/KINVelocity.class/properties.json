@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/26/2016 11:09",
-	"super" : "Object",
 	"category" : "Makros-Basics",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/26/2016 11:09",
 	"instvars" : [
 		"linear",
-		"angular"
-	],
+		"angular" ],
 	"name" : "KINVelocity",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

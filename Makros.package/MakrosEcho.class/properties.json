@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 6/9/2016 14:33",
-	"super" : "Mako",
 	"category" : "Makros-MoveBase",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 6/9/2016 14:33",
 	"instvars" : [
-		"echo"
-	],
+		"echo" ],
 	"name" : "MakrosEcho",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

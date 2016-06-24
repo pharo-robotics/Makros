@@ -1,18 +1,19 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/21/2016 15:18",
-	"super" : "Object",
 	"category" : "Makros-TF",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/21/2016 15:18",
 	"instvars" : [
 		"sourceToTopQuaternion",
 		"sourceToTopVector",
 		"targetToTopQuaternion",
 		"targetToTopVector",
 		"resultVector",
-		"resultQuaternion"
-	],
+		"resultQuaternion" ],
 	"name" : "TFFrameCalculationHelper",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

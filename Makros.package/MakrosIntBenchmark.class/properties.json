@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 5/25/2016 17:51",
-	"super" : "Mako",
 	"category" : "Makros-Benchmark",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 5/25/2016 17:51",
 	"instvars" : [
-		"outgoing"
-	],
+		"outgoing" ],
 	"name" : "MakrosIntBenchmark",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

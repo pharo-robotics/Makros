@@ -1,12 +1,10 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 4/29/2015 23:30",
-	"super" : "Object",
 	"category" : "Makros-MoveBase",
 	"classinstvars" : [
-		"statusNames"
-	],
-	"pools" : [ ],
-	"classvars" : [ ],
+		"statusNames" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/29/2015 23:30",
 	"instvars" : [
 		"stamp",
 		"id",
@@ -15,8 +13,9 @@
 		"text",
 		"triggers",
 		"pose",
-		"timeout"
-	],
+		"timeout" ],
 	"name" : "Makros2DMoveBaseGoal",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

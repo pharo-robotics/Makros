@@ -1,0 +1,3 @@
+component-private
+encodedSyncMessage 
+	 ^ #sync.

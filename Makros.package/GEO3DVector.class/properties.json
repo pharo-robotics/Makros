@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:24",
-	"super" : "GEOTern",
 	"category" : "Makros-Basics",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:24",
+	"instvars" : [
+		 ],
 	"name" : "GEO3DVector",
-	"type" : "variable"
-}
+	"pools" : [
+		 ],
+	"super" : "GEOTern",
+	"type" : "variable" }
