@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosBasics-RollingGrid",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RGGridRollingTests",
+	"pools" : [
+		 ],
+	"super" : "RGGridTestCase",
+	"type" : "normal" }

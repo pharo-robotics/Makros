@@ -1,0 +1,15 @@
+{
+	"category" : "MakrosBasics-Geometry",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:53",
+	"instvars" : [
+		"position",
+		"orientation" ],
+	"name" : "GEOPose",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

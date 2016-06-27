@@ -1,0 +1,3 @@
+initial configuration
+testInitializedInUnknown
+	grid allCellsSatisfy: #isUnknown

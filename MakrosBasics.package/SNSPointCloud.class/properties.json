@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosBasics-Sensors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 6/24/2016 17:30",
+	"instvars" : [
+		"points" ],
+	"name" : "SNSPointCloud",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

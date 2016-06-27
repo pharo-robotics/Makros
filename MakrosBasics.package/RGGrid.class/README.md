@@ -1,0 +1,1 @@
+This is a grid that keep tracks of values related with space position. This position are registered over the time and have the particularity that in a set of positions informed, all of them are in boundary square of { range;range }. (As in a sensor fashion)
