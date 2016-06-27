@@ -1,0 +1,17 @@
+{
+	"category" : "MakrosComponents-TF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/21/2016 14:55",
+	"instvars" : [
+		"parent",
+		"pose",
+		"name",
+		"stamp" ],
+	"name" : "TFFrame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

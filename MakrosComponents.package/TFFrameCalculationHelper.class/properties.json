@@ -1,0 +1,19 @@
+{
+	"category" : "MakrosComponents-TF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/21/2016 15:18",
+	"instvars" : [
+		"sourceToTopQuaternion",
+		"sourceToTopVector",
+		"targetToTopQuaternion",
+		"targetToTopVector",
+		"resultVector",
+		"resultQuaternion" ],
+	"name" : "TFFrameCalculationHelper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

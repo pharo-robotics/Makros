@@ -1,0 +1,21 @@
+{
+	"category" : "MakrosComponents-MoveBase",
+	"classinstvars" : [
+		"statusNames" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/29/2015 23:30",
+	"instvars" : [
+		"stamp",
+		"id",
+		"frame",
+		"status",
+		"text",
+		"triggers",
+		"pose",
+		"timeout" ],
+	"name" : "Makros2DMoveBaseGoal",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

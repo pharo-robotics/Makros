@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosComponents-MoveBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 6/9/2016 14:33",
+	"instvars" : [
+		"echo" ],
+	"name" : "MakrosEcho",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

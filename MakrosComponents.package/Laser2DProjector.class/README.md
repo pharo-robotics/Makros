@@ -1,0 +1,1 @@
+This component is in charge of transforming  laser readings into world coordinate system points. 

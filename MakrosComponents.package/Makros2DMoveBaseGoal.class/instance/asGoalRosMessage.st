@@ -1,0 +1,3 @@
+converting
+asGoalRosMessage
+	^ MakrosConvertions instance from2DMoveBaseGoalToMoveBaseActionGoal: self

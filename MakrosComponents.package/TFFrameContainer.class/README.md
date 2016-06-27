@@ -1,0 +1,1 @@
+Frame container is a key-value container for easily updating and finding frames, without going though the tree structure
