@@ -14,4 +14,6 @@ baseline: spec
 						repository: 'http://smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main/' ].
 			spec
 				package: #Makros with: [ spec requires: #('Mako' 'ROSDDS' 'SciSmalltalk') ];
-				package: #MakrosTesting with: [ spec requires: #('Makros') ] ]
+				package: #MakrosTesting with: [ spec requires: #('Makros') ];
+				package: #MakrosBasics with: [ spec requires: #('Makros') ];
+				package: #MakrosComponents with: [ spec requires: #('Makros' 'MakrosBasics') ] ]
