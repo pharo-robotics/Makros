@@ -1,4 +1,0 @@
-statuses
-succeeded
-	^ 3
-  

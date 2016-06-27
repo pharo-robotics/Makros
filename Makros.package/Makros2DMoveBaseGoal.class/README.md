@@ -1,1 +1,0 @@
-It represents a 2D goal.  It tracks a generated ID for managing info from ros. It gives a high level style of control for recovering mobile behaviors.

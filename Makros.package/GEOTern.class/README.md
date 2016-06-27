@@ -1,1 +1,0 @@
-Forced 3 variable (Tern) elements

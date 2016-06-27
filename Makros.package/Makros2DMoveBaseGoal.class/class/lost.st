@@ -1,3 +1,0 @@
-statuses
-lost
-	^ 9

@@ -1,3 +1,0 @@
-accessing
-sync
-	self manageTfInfo.

@@ -1,3 +1,0 @@
-component-private
-basicPortInstantiation 
-	 ^ {#tf => MakoInputPort type: #TFFrameContainer.#goal => MakrosInputPort type: #'move_base_msgs/MoveBaseActionGoal'.#cancel => MakrosInputPort type: #'actionlib_msgs/GoalID'.#scan => MakrosInputPort type: #'sensor_msgs/LaserScan'.#velocity => MakrosOutputPort type: #'geometry_msgs/Twist'.#status => MakrosOutputPort type: #'actionlib_msgs/GoalStatusArray'}.

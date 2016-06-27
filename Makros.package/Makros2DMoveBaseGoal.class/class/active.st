@@ -1,3 +1,0 @@
-statuses
-active
-	^ 1

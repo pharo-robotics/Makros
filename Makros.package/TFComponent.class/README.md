@@ -1,1 +1,0 @@
-TF Component deals with TF input / output, and as component it allows to get a FrameContainer, what allows to easily interact with the TF functionalities.

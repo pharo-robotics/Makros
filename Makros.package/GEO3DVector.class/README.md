@@ -1,1 +1,0 @@
-3 dimension vector. Base for representing any 3 dimension magnitud

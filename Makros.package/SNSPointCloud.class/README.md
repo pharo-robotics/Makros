@@ -1,1 +1,0 @@
-PointCloud is a nice object that has a Collection of GEOPosition used as points. 

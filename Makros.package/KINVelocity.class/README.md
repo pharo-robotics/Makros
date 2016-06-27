@@ -1,1 +1,0 @@
-KINVelocity is a representation of kinematics velocity. It is a magnitude to apply  a velocity in a particular direction, both linear and angular at the time.

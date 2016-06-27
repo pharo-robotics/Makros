@@ -1,1 +1,0 @@
-This class helps to do path calculations in the frame tree

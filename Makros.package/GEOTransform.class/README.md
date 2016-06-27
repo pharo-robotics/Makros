@@ -1,1 +1,0 @@
-Even when this is equivalent to a pose, it has other meaning. 

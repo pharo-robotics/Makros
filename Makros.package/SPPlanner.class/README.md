@@ -1,2 +1,0 @@
-This planner is a really simple approach based in the fact that the way in between both points will be always straight and clear. 
-  The policy for collision avoidance is stop up to the moment when the way is open.

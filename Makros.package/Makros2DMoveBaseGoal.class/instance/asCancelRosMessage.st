@@ -1,3 +1,0 @@
-converting
-asCancelRosMessage
-	^ MakrosConvertions instance from2DMoveBaseGoalToGoalID: self
