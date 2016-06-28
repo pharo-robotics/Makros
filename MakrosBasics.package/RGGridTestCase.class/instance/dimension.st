@@ -1,3 +1,3 @@
 convenience
 dimension
-	^ self range * 2
+	^ self range * 2 + 1

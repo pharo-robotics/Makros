@@ -8,7 +8,8 @@
 	"instvars" : [
 		"grid",
 		"range",
-		"step" ],
+		"step",
+		"zero" ],
 	"name" : "RGGrid",
 	"pools" : [
 		 ],

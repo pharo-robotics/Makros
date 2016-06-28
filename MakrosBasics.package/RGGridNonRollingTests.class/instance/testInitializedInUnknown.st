@@ -1,3 +1,3 @@
 initial configuration
 testInitializedInUnknown
-	grid allCellsSatisfy: #isUnknown
+	grid allPointsSatisfy: #isUnknown
