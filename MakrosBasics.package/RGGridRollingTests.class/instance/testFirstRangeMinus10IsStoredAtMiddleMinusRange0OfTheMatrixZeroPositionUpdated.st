@@ -1,4 +1,4 @@
-as yet unclassified
+minus
 testFirstRangeMinus10IsStoredAtMiddleMinusRange0OfTheMatrixZeroPositionUpdated
 	| val |
 	val := GEO3DVector x: -1 * (self range + 1) y: 0 z: 1.

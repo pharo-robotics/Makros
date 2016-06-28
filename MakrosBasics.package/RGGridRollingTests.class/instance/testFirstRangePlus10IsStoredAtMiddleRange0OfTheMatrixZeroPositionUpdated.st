@@ -1,4 +1,4 @@
-as yet unclassified
+plus
 testFirstRangePlus10IsStoredAtMiddleRange0OfTheMatrixZeroPositionUpdated
 	| val |
 	val := GEO3DVector x: self range + 1 y: 0 z: 1.
