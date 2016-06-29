@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFirst01IsStoredAtMiddlePlus01OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirst10IsStoredAtMiddlePlus10OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirst11IsStoredAtMiddlePlus11OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinus01IsStoredAtMiddlePlusMinus01OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinus0RangeIsStoredAtMiddleMinus0RangefTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinus10IsStoredAtMiddlePlusMinus10OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinus11IsStoredAtMiddlePlusMinus11OfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinusRange0IsStoredAtMiddleMinusRange0fTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstMinusRangeRangeIsStoredAtMiddleMinusRangeRangefTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstPlus0RangeIsStoredAtMiddlePlus0RangeOfTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstPlusRange0IsStoredAtMiddlePlusRange0fTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstRangeRangeIsStoredAtMiddlePlusRangeRangefTheMatrix" : " 6/28/2016 15:36:31",
+		"testFirstZeroIsStoredAtMiddleOfTheMatrix" : " 6/28/2016 15:36:31",
+		"testGridSizeIsDoubleRangePer100" : " 6/28/2016 15:36:31",
+		"testInitializedInUnknown" : " 6/28/2016 15:36:31",
+		"testStoreAtZero" : " 6/28/2016 15:36:31" } }

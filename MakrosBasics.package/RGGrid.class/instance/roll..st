@@ -1,7 +1,14 @@
 as yet unclassified
-roll: aGapPoint
-	| newZero gap |
+roll: anIndexToServe
+	| gapX gapY gap |
 	" 0, 1 "
-	gap := (aGapPoint abs + step) * aGapPoint sign.
-	0 to: grid size - 1 by: self sideSize do: [ :x | gap y to: self sideSize do: [ :y | grid at: x + y - (gap y - 1) put: (grid at: x + y) ] ].
-	zero := zero + gap
+	gap := self zeroOrGap: anIndexToServe.
+	gapX := gap x.
+	gapY := gap y.
+	self halt. 
+	" 
+	gapY > 0 	ifTrue: [ self rollUpY: gapY ].
+	gapY < 0 	ifTrue: [ self rollDownY: gapY ].
+	gapX > 0 	ifTrue: [ self rollRightX: gapX ].
+	gapX < 0 	ifTrue: [ self rollLeftX: gapX ]."
+	zero := zero - gap

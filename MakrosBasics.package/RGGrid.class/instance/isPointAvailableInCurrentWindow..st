@@ -1,4 +1,5 @@
 as yet unclassified
 isPointAvailableInCurrentWindow: aPoint
-	^ (aPoint x between: 1 and: self sideSize)
-		and: [ aPoint y between: 1 and: self sideSize ]
+	| negaZero |
+	negaZero := zero negated.
+	^ (aPoint x between: negaZero x and: negaZero x + self sideSize) and: [ aPoint y between: negaZero y and: negaZero y + self sideSize ]
