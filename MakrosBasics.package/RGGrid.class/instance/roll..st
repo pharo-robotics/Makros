@@ -2,10 +2,11 @@ as yet unclassified
 roll: anIndexToServe
 	| gapX gapY gap |
 	" 0, 1 "
+	rolled := rolled + 1. 
 	gap := self zeroOrGap: anIndexToServe.
+
 	gapX := gap x.
 	gapY := gap y.
-	self halt. 
 	" 
 	gapY > 0 	ifTrue: [ self rollUpY: gapY ].
 	gapY < 0 	ifTrue: [ self rollDownY: gapY ].

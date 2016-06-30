@@ -9,7 +9,8 @@
 		"grid",
 		"range",
 		"step",
-		"zero" ],
+		"zero",
+		"rolled" ],
 	"name" : "RGGrid",
 	"pools" : [
 		 ],

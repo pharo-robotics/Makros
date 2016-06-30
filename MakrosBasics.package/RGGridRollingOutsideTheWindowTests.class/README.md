@@ -1,5 +1,4 @@
-as yet unclassified
-zeroOrGap: aPoint
+"zeroOrGap: aPoint
 	| x y |
 	x := aPoint x.
 	y := aPoint y.
@@ -13,4 +12,4 @@ zeroOrGap: aPoint
 		ifFalse: [ y < 1
 				ifTrue: [ y abs + step ]
 				ifFalse: [ self sideSize - y + step negated ] ].
-	^ x @ y
+	^ x @ y"

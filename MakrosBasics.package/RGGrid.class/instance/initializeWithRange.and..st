@@ -5,4 +5,5 @@ initializeWithRange: aRange and: aStep
 	step := aStep.
 	size := self size.
 	grid := ByteArray new: size x * size y.
-	zero := range @ range
+	zero := (range @ range) negated.
+	rolled := 0.
