@@ -1,10 +1,9 @@
 minus
 testFirstMinus0RangePlus1IsStoredAtMiddleMinus0RangeOfTheMatrixZeroPositionUpdated
-	| val newZeroShift newZeroPosition |
-	val := GEO3DVector x: 0 y: -1 * (self range *3) z: 1.
+	| val indexed newZero |
+	val := GEO3DVector x: 0 y: -1 * (self range * 3) z: 1.
 	grid at: val put: #freeSpace.
-	newZeroShift := self middle - (0 @ self step).
-	newZeroPosition := self middle + (0 @ self step).
-	self assert: (grid indexOf: val) equals: self middle x @ (self range + 1 - newZeroShift y).
-	self assert: (grid indexOf: GEO3DVector zero) equals:  newZeroPosition
-	 
+	indexed := val asPoint - self middle negated.
+	newZero := self middle x negated @ (self middle y negated - (indexed y abs + self step)).
+	self assert: grid zero equals: newZero.
+	self assert: (grid indexOf: val) equals: val asPoint - newZero

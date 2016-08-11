@@ -1,5 +1,26 @@
 as yet unclassified
 rollLeftX: gapX
-	0 to: grid size by: self sideSize do: [ :y | 
-		(1 to: self sideSize + gapX) reverseDo: [ :x | grid at: y + x - gapX put: (grid at: x + y) ].
-		self sideSize + gapX to: self sideSize do: [ :idx | grid at: idx put: SmallInteger unknown ] ]
+	"
+  [ X Y Z ]
+  [ X Y Z ] 
+  [ X Y Z ]
+<<===
+  [ U X Y ]
+  [ U X Y ] 
+  [ U X Y ]
+"
+
+	| newPosition oldPosition xBoundaryRight xBoundaryLeft |
+	self logCr: ' left'.
+	xBoundaryLeft := gapX abs + 1.
+	xBoundaryRight := self sideSize.
+	
+	0 to: self sideSize - 1 do: [ :each | 
+		| y |
+		y := each * self sideSize.
+		xBoundaryLeft to: xBoundaryRight do: [ :x | 
+			newPosition := y + x + gapX.
+			oldPosition := y + x.
+			grid at: newPosition put: (grid at: oldPosition).
+			grid at: oldPosition put: self unknownValue ]
+		]

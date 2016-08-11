@@ -1,3 +1,3 @@
 convenience
 middle
-	^ (self dimension + 1 asPoint) / 2
+	^ self dimension asPoint / 2

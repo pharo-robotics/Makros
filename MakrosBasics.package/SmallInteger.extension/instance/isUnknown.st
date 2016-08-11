@@ -1,3 +1,3 @@
 *MakrosBasics
 isUnknown
-	self == 0
+	^ self == 0

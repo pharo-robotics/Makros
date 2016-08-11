@@ -1,0 +1,14 @@
+{
+	"category" : "MakrosBasics-RollingGrid",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Viejo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

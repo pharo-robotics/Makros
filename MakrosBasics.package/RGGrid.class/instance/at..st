@@ -1,3 +1,7 @@
-as yet unclassified
+accessing
 at: aPoint
-	^ grid at: (self plainIndexOf: aPoint)
+	| index |
+	index := self readingIndexOf: aPoint.
+	^ (self isPointAvailableInCurrentWindow: index)
+		ifTrue: [ grid at: (self transformToOneDimensionIndex: index) ]
+		ifFalse: [ self unknownValue ]

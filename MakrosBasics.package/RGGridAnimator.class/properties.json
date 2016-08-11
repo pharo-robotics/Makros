@@ -1,0 +1,17 @@
+{
+	"category" : "MakrosBasics-RollingGrid",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"grid",
+		"image",
+		"morph" ],
+	"name" : "RGGridAnimator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

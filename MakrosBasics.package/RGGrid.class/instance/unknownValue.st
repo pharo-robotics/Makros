@@ -1,0 +1,3 @@
+private
+unknownValue
+	^ SmallInteger unknown 
