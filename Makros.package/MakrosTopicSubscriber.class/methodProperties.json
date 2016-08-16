@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"basicPortInstantiation" : " 8/16/2016 10:56:47",
+		"encodedSyncMessage" : " 8/16/2016 10:56:47",
+		"forApp:onTopOfTopicNamed:" : " 8/16/2016 10:56:47" },
+	"instance" : {
+		"application:" : " 8/16/2016 10:56:47",
+		"configure" : " 8/16/2016 10:56:47",
+		"depositValueInPort:" : " 8/16/2016 10:56:47",
+		"destroy" : " 8/16/2016 10:56:47",
+		"hasConnections" : " 8/16/2016 10:56:47",
+		"incomingValue" : " 8/16/2016 10:56:47",
+		"invalidate" : " 8/16/2016 10:56:47",
+		"isMakrosComponent" : " 8/16/2016 10:56:47",
+		"subscription" : " 8/16/2016 10:56:47",
+		"topic" : " 8/16/2016 10:56:47",
+		"topicName:" : " 8/16/2016 10:56:47" } }
