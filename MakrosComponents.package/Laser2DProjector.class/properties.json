@@ -1,16 +1,15 @@
 {
-	"category" : "MakrosComponents-Laser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 6/25/2016 11:26",
+	"super" : "Mako",
+	"category" : "MakrosComponents-Laser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"tf",
 		"scan",
-		"points" ],
+		"points"
+	],
 	"name" : "Laser2DProjector",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

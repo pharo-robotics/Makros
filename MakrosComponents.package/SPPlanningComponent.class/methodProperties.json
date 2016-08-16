@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"calculateVelocityFor:" : " 8/16/2016 16:45:12",
+		"manageTf" : " 8/16/2016 16:45:12",
+		"manageCancel" : " 8/16/2016 16:45:12",
+		"currentGoal" : " 8/16/2016 16:45:12",
+		"manageScan" : " 8/16/2016 16:45:12",
+		"manageGoals" : " 8/16/2016 16:45:12",
+		"frames:" : " 8/16/2016 16:45:12",
+		"initialize" : " 8/16/2016 16:45:12",
+		"addGoal:" : " 8/16/2016 16:45:12",
+		"force:between:and:" : " 8/16/2016 16:45:12",
+		"findGoalBy:and:" : " 8/16/2016 16:45:12",
+		"printSpeed" : " 8/16/2016 16:45:12",
+		"cancelGoal:" : " 8/16/2016 16:45:12",
+		"sync" : " 8/16/2016 16:45:12"
+	},
+	"class" : {
+		"basicPortInstantiation" : " 8/16/2016 16:45:12",
+		"setupIn:" : " 8/16/2016 16:45:12",
+		"encodedSyncMessage" : " 8/16/2016 16:45:12"
+	}
+}
