@@ -1,0 +1,16 @@
+{
+	"category" : "MakrosComponents-Laser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"costmap",
+		"points",
+		"rollingGrid" ],
+	"name" : "CostMap2DComponent",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }
