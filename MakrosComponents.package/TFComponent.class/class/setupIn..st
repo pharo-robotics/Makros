@@ -1,6 +1,6 @@
 as yet unclassified
 setupIn: anApplication
-	| tfcomponent tf moveBaseCancel moveBaseFeedback moveBaseStatus |
+	| tfcomponent tf  |
 	tfcomponent := TFComponent forApp: anApplication.
 	tf := MakrosTopicSubscriber forApp: anApplication onTopOfTopicNamed: '/tf'.
 	anApplication

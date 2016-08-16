@@ -4,12 +4,15 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:46",
+	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:45",
 	"instvars" : [
+		"rollingGrid",
 		"costmap",
-		"points",
-		"rollingGrid" ],
-	"name" : "CostMap2DComponent",
+		"rendering",
+		"image",
+		"morph",
+		"renderer" ],
+	"name" : "CostMapRendererComponent",
 	"pools" : [
 		 ],
 	"super" : "Mako",

@@ -1,0 +1,1 @@
+It registers the lectures from different pointcloud devices connected into a rolling grid
