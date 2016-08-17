@@ -14,4 +14,4 @@ setupIn: anApplication
 		port: #container
 		to: projector
 		port: #tf.
-	^ scan
+	^ projector
