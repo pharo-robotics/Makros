@@ -1,3 +1,3 @@
 as yet unclassified
-obstacleValue
-	^ 10
+points
+	^points 

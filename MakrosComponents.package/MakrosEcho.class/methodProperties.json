@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"echo:" : " 8/16/2016 16:45:12"
-	},
 	"class" : {
-		"basicPortInstantiation" : " 8/16/2016 16:45:12"
-	}
-}
+		"basicPortInstantiation" : "8/16/2016 16:45:12" },
+	"instance" : {
+		"echo:" : "8/16/2016 16:45:12" } }

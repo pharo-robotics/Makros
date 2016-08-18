@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:46",
-	"super" : "Mako",
 	"category" : "MakrosComponents-Laser",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:46",
 	"instvars" : [
 		"costmap",
 		"points",
-		"rollingGrid"
-	],
+		"rollingGrid" ],
 	"name" : "CostMap2DComponent",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

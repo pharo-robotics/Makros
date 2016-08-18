@@ -1,3 +1,3 @@
 accessing
 map
-	^ '/map'
+	^ 'map'

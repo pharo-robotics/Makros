@@ -1,3 +1,3 @@
 accessing
 baselink
-	^ '/base_link'
+	^ 'base_laser_link'

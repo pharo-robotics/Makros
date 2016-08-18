@@ -1,18 +1,19 @@
 {
-	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:45",
-	"super" : "Mako",
 	"category" : "MakrosComponents-Laser",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragangolo 8/16/2016 14:45",
 	"instvars" : [
 		"rollingGrid",
 		"costmap",
 		"rendering",
 		"image",
 		"morph",
-		"renderer"
-	],
+		"renderer" ],
 	"name" : "CostMapRendererComponent",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/22/2016 11:49",
-	"super" : "Object",
 	"category" : "MakrosComponents-TF",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/22/2016 11:49",
 	"instvars" : [
-		"frames"
-	],
+		"frames" ],
 	"name" : "TFFrameContainer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

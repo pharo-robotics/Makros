@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"range:step:" : " 8/17/2016 16:26:42" },
+	"instance" : {
+		"allPointsSatisfy:" : " 8/17/2016 16:26:42",
+		"asColorForm" : " 8/17/2016 16:26:42",
+		"at:" : " 8/17/2016 16:26:42",
+		"at:put:" : " 8/17/2016 16:26:42",
+		"indexOf:" : " 8/17/2016 16:26:42",
+		"initializeWithRange:and:" : " 8/17/2016 16:26:42",
+		"intoForm:" : " 8/17/2016 16:26:42",
+		"isPointAvailableInCurrentWindow:" : " 8/17/2016 16:26:42",
+		"readingIndexOf:" : " 8/17/2016 16:26:42",
+		"roll:" : " 8/17/2016 16:26:42",
+		"rollDownY:" : " 8/17/2016 16:26:42",
+		"rollLeftX:" : " 8/17/2016 16:26:42",
+		"rollRightX:" : " 8/17/2016 16:26:42",
+		"rollUpY:" : " 8/17/2016 16:26:42",
+		"rolled" : " 8/17/2016 16:26:42",
+		"sideSize" : " 8/17/2016 16:26:42",
+		"size" : " 8/17/2016 16:26:42",
+		"transformToOneDimensionIndex:" : " 8/17/2016 16:26:42",
+		"unknownValue" : " 8/17/2016 16:26:42",
+		"writingIndexOf:" : " 8/17/2016 16:26:42",
+		"zero" : " 8/17/2016 16:26:42",
+		"zeroOffset" : " 8/17/2016 16:26:42",
+		"zeroOrGap:" : " 8/17/2016 16:26:42" } }

@@ -1,6 +1,5 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"moveTorwardsGoal" : " 8/16/2016 16:45:12"
-	},
-	"class" : { }
-}
+		"moveTorwardsGoal" : "8/16/2016 16:45:12" } }

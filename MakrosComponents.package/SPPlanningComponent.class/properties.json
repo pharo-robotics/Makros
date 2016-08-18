@@ -1,10 +1,10 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/25/2016 17:05",
-	"super" : "Mako",
 	"category" : "MakrosComponents-MoveBase",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/25/2016 17:05",
 	"instvars" : [
 		"goals",
 		"frames",
@@ -14,8 +14,9 @@
 		"cancel",
 		"scan",
 		"velocity",
-		"status"
-	],
+		"status" ],
 	"name" : "SPPlanningComponent",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

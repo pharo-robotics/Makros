@@ -1,12 +1,10 @@
 {
-	"instance" : {
-		"obstacleValue" : " 8/16/2016 16:45:12",
-		"sync" : " 8/16/2016 16:45:12"
-	},
 	"class" : {
-		"basicPortInstantiation" : " 8/16/2016 16:45:12",
+		"basicPortInstantiation" : "8/16/2016 16:45:12",
+		"encodedSyncMessage" : "8/16/2016 16:45:12",
 		"setupIn:" : "SantiagoBragagnolo 8/16/2016 17:09",
-		"setupIn:withLaserProjector:" : " 8/16/2016 16:45:12",
-		"encodedSyncMessage" : " 8/16/2016 16:45:12"
-	}
-}
+		"setupIn:withLaserProjector:" : "8/16/2016 16:45:12" },
+	"instance" : {
+		"obstacleValue" : "Santiago 8/17/2016 17:11",
+		"rollingGrid" : "Santiago 8/17/2016 16:55",
+		"sync" : "Santiago 8/17/2016 17:01" } }
