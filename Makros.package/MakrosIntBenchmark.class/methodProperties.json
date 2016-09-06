@@ -1,8 +1,8 @@
 {
 	"class" : {
-		"basicPortInstantiation" : " 8/16/2016 10:56:47",
-		"benchmark" : " 8/16/2016 10:56:47",
-		"encodedSyncMessage" : " 8/16/2016 10:56:47",
-		"setupIn:" : " 8/16/2016 10:56:47" },
+		"basicPortInstantiation" : "8/16/2016 10:56:47",
+		"benchmark" : "8/16/2016 10:56:47",
+		"encodedSyncMessage" : "8/16/2016 10:56:47",
+		"setupIn:" : "8/16/2016 10:56:47" },
 	"instance" : {
-		"sync" : " 8/16/2016 10:56:47" } }
+		"sync" : "8/16/2016 10:56:47" } }

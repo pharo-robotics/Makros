@@ -1,10 +1,10 @@
 accessing
 start: aRate
 	process
-		ifNil:
-			[ process := (self -> #tickEach:) tkt
-				loopingService;
-				inALocalProcess;
-				priority: 60;
-				withArgument: aRate;
-				start ]
+		ifNil: [ process := TKTParameterizableService new.
+			process
+				onSetUpDo: [ Processor activeProcess priority: 60.
+					self logCr: 'DDS System monitor has started' ].
+			process onTearDownDo: (MessageSend receiver: self selector: #logProcessStop).
+			process step: (MessageSend receiver: self selector: #tickEach: argument: aRate).
+			process start ]
