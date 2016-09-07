@@ -7,4 +7,5 @@ start: aRate
 					self logCr: 'DDS System monitor has started' ].
 			process onTearDownDo: (MessageSend receiver: self selector: #logProcessStop).
 			process step: (MessageSend receiver: self selector: #tickEach: argument: aRate).
+			process name: 'MakrosApplication clock ', UUID new asString.
 			process start ]

@@ -1,5 +1,5 @@
 accessing
 stop
 	process
-		ifNotNil: [ process cancel.
+		ifNotNil: [ process stop.
 			process := nil ]
