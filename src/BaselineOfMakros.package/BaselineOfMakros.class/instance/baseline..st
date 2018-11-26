@@ -4,8 +4,8 @@ baseline: spec
 	spec
 		for: #common
 		do: [ spec
-				baseline: 'Mako' with: [ spec repository: 'github://sbragagnolo/Mako' ];
-				baseline: 'ROSDDS' with: [ spec repository: 'github://sbragagnolo/ROSDDS' ];
+				baseline: 'Mako' with: [ spec repository: 'github://sbragagnolo/Mako/src' ];
+				baseline: 'ROSDDS' with: [ spec repository: 'github://sbragagnolo/ROSDDS/src' ];
 				project: 'SciSmalltalk'
 					with: [ spec
 						className: #ConfigurationOfSciSmalltalk;
