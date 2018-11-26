@@ -1,18 +1,17 @@
 {
-	"category" : "Makros-Kernel-Components",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/15/2015 23:34",
+	"super" : "Mako",
+	"category" : "Makros-Kernel-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"publisher",
 		"topicName",
 		"application",
 		"isConfigured",
-		"outgoing" ],
+		"outgoing"
+	],
 	"name" : "MakrosTopicPublisher",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

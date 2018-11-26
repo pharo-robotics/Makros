@@ -1,14 +1,13 @@
 {
+	"commentStamp" : "SantiagoBragagnolo 1/22/2016 12:00",
+	"super" : "Object",
 	"category" : "Makros-Basics",
 	"classinstvars" : [
-		"instance" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 1/22/2016 12:00",
-	"instvars" : [
-		 ],
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "MakrosConvertions",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

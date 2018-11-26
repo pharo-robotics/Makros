@@ -1,17 +1,16 @@
 {
-	"category" : "Makros-Kernel-Port",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TMakrosDataflowPort classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 4/29/2015 11:44",
+	"classvars" : [ ],
 	"instvars" : [
 		"application",
-		"type" ],
+		"type"
+	],
 	"name" : "MakrosOutputPort",
-	"pools" : [
-		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/29/2015 11:44",
 	"super" : "MakoOutputPort",
 	"traitcomposition" : "TMakrosDataflowPort",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Makros-Kernel-Port"
+}

@@ -1,16 +1,15 @@
 {
-	"category" : "Makros-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 5/30/2016 15:23",
+	"super" : "Object",
+	"category" : "Makros-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"topics",
 		"parameters",
-		"services" ],
+		"services"
+	],
 	"name" : "MakrosNamingTable",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

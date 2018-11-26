@@ -1,4 +1,7 @@
 {
-	"category" : "Makros-Kernel-Port",
 	"commentStamp" : "SantiagoBragagnolo 4/29/2015 11:44",
-	"name" : "TMakrosDataflowPort" }
+	"classinstvars" : [ ],
+	"category" : "Makros-Kernel-Port",
+	"instvars" : [ ],
+	"name" : "TMakrosDataflowPort"
+}

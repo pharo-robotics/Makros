@@ -1,14 +1,11 @@
 {
-	"category" : "Makros",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "ManifestMakros",
-	"pools" : [
-		 ],
 	"super" : "PackageManifest",
-	"type" : "normal" }
+	"category" : "Makros",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ManifestMakros",
+	"type" : "normal"
+}
