@@ -13,7 +13,7 @@ baseline: spec
 						className: #ConfigurationOfSciSmalltalk;
 						versionString: #stable;
 						repository: 'http://smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main/';
-						loads: #(Math - Quaternion Math - DHB - Numerical) ].
+						loads: #('Math-Quaternion' 'Math-DHB-Numerical') ].
 			spec
 				package: #Makros
 					with: [ spec requires: #('Mako' 'ROSDDS' 'SciSmalltalk') ];
