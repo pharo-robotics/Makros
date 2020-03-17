@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"basicPortInstantiation" : "8/16/2016 16:45:12",
-		"encodedSyncMessage" : "8/16/2016 16:45:12" },
-	"instance" : {
-		"ensureImageAndMorphFor:" : "8/16/2016 16:45:12",
-		"initialize" : "8/16/2016 16:45:12",
-		"render:" : "8/16/2016 16:45:12",
-		"sync" : "Santiago 8/17/2016 17:07" } }
