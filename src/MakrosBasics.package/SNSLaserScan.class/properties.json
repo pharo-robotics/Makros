@@ -1,15 +1,14 @@
 {
-	"category" : "MakrosBasics-Sensors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 6/24/2016 17:15",
+	"super" : "Object",
+	"category" : "MakrosBasics-Sensors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"scans",
-		"cartesianRanges" ],
+		"cartesianRanges"
+	],
 	"name" : "SNSLaserScan",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "MakrosBasics-Geometry",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/22/2016 11:55",
+	"super" : "Object",
+	"category" : "MakrosBasics-Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"translation",
-		"rotation" ],
+		"rotation"
+	],
 	"name" : "GEOTransform",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

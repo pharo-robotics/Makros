@@ -11,7 +11,7 @@ rollRightX: gapX
 "
 
 	| newPosition oldPosition xBoundaryRight xBoundaryLeft |
-	self logCr: ' right'.
+	self traceCr: ' right'.
 	xBoundaryLeft := 1.
 	xBoundaryRight := self sideSize - gapX abs - 1.
 	0 to: self sideSize - 1 do: [ :each | 

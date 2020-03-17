@@ -11,18 +11,10 @@ rollDownY: gapY
 "
 
 	| realGap |
-	self logCr: 'Tolling up'.
+	self traceCr: 'Tolling up'.
 	realGap := gapY abs * self sideSize.
 	0 to: self sideSize - 1 - gapY abs do: [ :each | 
-		| y |
-		y := each * self sideSize.
-		1 to: self sideSize do: [ :x | 
-			| old new |
-			new := x + y.
-			old := x + (y + realGap).
-			grid at: new put: (grid at: old).
-			grid at: old put: SmallInteger unknown ] ]
-	"
+		"
 	| realGap yBoundary |
 	
 	self logCr: 'Tolling down'.
@@ -38,7 +30,15 @@ rollDownY: gapY
 			new := x + y - realGap.
 			grid at: new put: (grid at: old).
 			grid at: old put: SmallInteger unknown ] ]."
-	"((yBoundary + 1) max: 0) to: self sideSize - 1 do: [ :each | 
+		"((yBoundary + 1) max: 0) to: self sideSize - 1 do: [ :each | 
 		| y |
 		y := each * self sideSize.
 		1 to: self sideSize do: [ :x | grid at: x + y put: self unknownValue ] ]"
+		| y |
+		y := each * self sideSize.
+		1 to: self sideSize do: [ :x | 
+			| old new |
+			new := x + y.
+			old := x + (y + realGap).
+			grid at: new put: (grid at: old).
+			grid at: old put: SmallInteger unknown ] ]

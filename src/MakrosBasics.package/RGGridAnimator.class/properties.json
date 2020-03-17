@@ -1,17 +1,16 @@
 {
-	"category" : "MakrosBasics-RollingGrid",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MakrosBasics-RollingGrid",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"process",
 		"grid",
 		"image",
-		"morph" ],
+		"morph"
+	],
 	"name" : "RGGridAnimator",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

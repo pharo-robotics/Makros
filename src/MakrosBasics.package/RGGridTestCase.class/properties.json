@@ -1,14 +1,13 @@
 {
-	"category" : "MakrosBasics-RollingGridTest",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 6/30/2016 13:53",
-	"instvars" : [
-		"grid" ],
-	"name" : "RGGridTestCase",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "MakrosBasics-RollingGridTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid"
+	],
+	"name" : "RGGridTestCase",
+	"type" : "normal"
+}

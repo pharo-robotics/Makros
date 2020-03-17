@@ -11,10 +11,9 @@ rollLeftX: gapX
 "
 
 	| newPosition oldPosition xBoundaryRight xBoundaryLeft |
-	self logCr: ' left'.
+	self traceCr: ' left'.
 	xBoundaryLeft := gapX abs + 1.
 	xBoundaryRight := self sideSize.
-	
 	0 to: self sideSize - 1 do: [ :each | 
 		| y |
 		y := each * self sideSize.
@@ -22,5 +21,4 @@ rollLeftX: gapX
 			newPosition := y + x + gapX.
 			oldPosition := y + x.
 			grid at: newPosition put: (grid at: oldPosition).
-			grid at: oldPosition put: self unknownValue ]
-		]
+			grid at: oldPosition put: self unknownValue ] ]

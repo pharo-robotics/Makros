@@ -12,7 +12,7 @@ rollUpY: gapY
 "
 
 	| realGap |
-	self logCr: 'Tolling up'.
+	self traceCr: 'Tolling up'.
 	realGap := gapY * self sideSize.
 	(gapY to: self sideSize - 1)
 		reverseDo: [ :each | 

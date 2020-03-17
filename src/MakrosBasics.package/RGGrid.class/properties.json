@@ -1,18 +1,17 @@
 {
-	"category" : "MakrosBasics-RollingGrid",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 6/27/2016 11:40",
+	"super" : "Object",
+	"category" : "MakrosBasics-RollingGrid",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"grid",
 		"range",
 		"step",
 		"zero",
-		"rolled" ],
+		"rolled"
+	],
 	"name" : "RGGrid",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
